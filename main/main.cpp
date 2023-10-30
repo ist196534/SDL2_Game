@@ -6,7 +6,7 @@
 
 int main(int argc, char* argv[]){
 
-    //Game FreeRuben;
+    Game FreeRuben;
 
     //Start up SDL and create window
     if(!FreeRuben.init())
